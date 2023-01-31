@@ -348,7 +348,12 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Apple.cs"
+"Assets/ApplePicker.cs"
 "Assets/AppleTree.cs"
+"Assets/Basket.cs"
+"Assets/HighScore.cs"
+"Assets/ScoreCounter.cs"
 -langversion:9.0
 
 /deterministic
