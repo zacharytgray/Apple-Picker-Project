@@ -1,0 +1,145 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void Apple::Update()
+extern void Apple_Update_mD16063C8D81C85A1DFBC5F066048789B54DF206D (void);
+// 0x00000002 System.Void Apple::.ctor()
+extern void Apple__ctor_m470B2E2F0F8BE1503711117A920744A0B5F4DA87 (void);
+// 0x00000003 System.Void Apple::.cctor()
+extern void Apple__cctor_m16C313F799B5A7ED5C8024576A37C3F172513B24 (void);
+// 0x00000004 System.Void ApplePicker::Start()
+extern void ApplePicker_Start_m2E8172FA4DD108AFFEA09BB1CA545E68A538ED1F (void);
+// 0x00000005 System.Void ApplePicker::Update()
+extern void ApplePicker_Update_mA0387F45897A8DDF45F50E1B31A5B65932BA53F2 (void);
+// 0x00000006 System.Void ApplePicker::AppleMissed()
+extern void ApplePicker_AppleMissed_mC9322C9FBD15229F9DE11D9EAF02139CCE20028A (void);
+// 0x00000007 System.Void ApplePicker::.ctor()
+extern void ApplePicker__ctor_mA5D862BB710879651A1516DDED21A886E6F282DB (void);
+// 0x00000008 System.Void AppleTree::DropApple()
+extern void AppleTree_DropApple_m853B538AE2F2B08EEDE44506813A010B94F07F90 (void);
+// 0x00000009 System.Void AppleTree::Start()
+extern void AppleTree_Start_m297F9DD0C906E126E9DF126A687197151F54A9DA (void);
+// 0x0000000A System.Void AppleTree::Update()
+extern void AppleTree_Update_m34DBD8CE1C4DF2F041A9AD3F936F397BD9A84420 (void);
+// 0x0000000B System.Void AppleTree::FixedUpdate()
+extern void AppleTree_FixedUpdate_m8276CFB4D984542BA176F5FA4DF238A549B933D0 (void);
+// 0x0000000C System.Void AppleTree::.ctor()
+extern void AppleTree__ctor_mE497BFEE1F98E40AD86A0FEC62963BF9470F61D4 (void);
+// 0x0000000D System.Void Basket::Start()
+extern void Basket_Start_mE120B70ECBAD12FF9ECA3D0238F4B5B6BF1409B2 (void);
+// 0x0000000E System.Void Basket::Update()
+extern void Basket_Update_m37622FE774AACCDD7F9ABCC634AFF2E40220EBBE (void);
+// 0x0000000F System.Void Basket::OnCollisionEnter(UnityEngine.Collision)
+extern void Basket_OnCollisionEnter_m67BAC0C67DF584C887DDCA65366DC4ABB8049591 (void);
+// 0x00000010 System.Void Basket::.ctor()
+extern void Basket__ctor_m65F74C0136073A712AD73EB3EE9D6B7888E307BB (void);
+// 0x00000011 System.Void HighScore::Awake()
+extern void HighScore_Awake_mA5C1C191D20846C326EB5BD2B4A0534B364AA399 (void);
+// 0x00000012 System.Int32 HighScore::get_SCORE()
+extern void HighScore_get_SCORE_m7262A5E06AD0A161F24299FF26BD41063CDCD5AA (void);
+// 0x00000013 System.Void HighScore::set_SCORE(System.Int32)
+extern void HighScore_set_SCORE_m435F12AA3E4C150CA7C81771D66BD18C7739C0E8 (void);
+// 0x00000014 System.Void HighScore::TRY_SET_HIGH_SCORE(System.Int32)
+extern void HighScore_TRY_SET_HIGH_SCORE_m7162A2B211CECC040083B083F24A5190A26E0C05 (void);
+// 0x00000015 System.Void HighScore::OnDrawGizmos()
+extern void HighScore_OnDrawGizmos_mA6485BED20B83077DF1C3B69DE59002BB1FAEFC7 (void);
+// 0x00000016 System.Void HighScore::.ctor()
+extern void HighScore__ctor_m94B0B5695A6D597D2E294CC40EC66325A16FB1EB (void);
+// 0x00000017 System.Void HighScore::.cctor()
+extern void HighScore__cctor_m64F1F84511F36C5AEDE29663FD46C79825051222 (void);
+// 0x00000018 System.Void ScoreCounter::Start()
+extern void ScoreCounter_Start_mC44AE9A1D07E54F2761B749315EFE9BF241C0B28 (void);
+// 0x00000019 System.Void ScoreCounter::Update()
+extern void ScoreCounter_Update_m5C95165BBB78FBC9163A047A49BBBE77D18F29A8 (void);
+// 0x0000001A System.Void ScoreCounter::.ctor()
+extern void ScoreCounter__ctor_mD31BB3A21C7FDA565DBAA13439B05739F2AE109F (void);
+static Il2CppMethodPointer s_methodPointers[26] = 
+{
+	Apple_Update_mD16063C8D81C85A1DFBC5F066048789B54DF206D,
+	Apple__ctor_m470B2E2F0F8BE1503711117A920744A0B5F4DA87,
+	Apple__cctor_m16C313F799B5A7ED5C8024576A37C3F172513B24,
+	ApplePicker_Start_m2E8172FA4DD108AFFEA09BB1CA545E68A538ED1F,
+	ApplePicker_Update_mA0387F45897A8DDF45F50E1B31A5B65932BA53F2,
+	ApplePicker_AppleMissed_mC9322C9FBD15229F9DE11D9EAF02139CCE20028A,
+	ApplePicker__ctor_mA5D862BB710879651A1516DDED21A886E6F282DB,
+	AppleTree_DropApple_m853B538AE2F2B08EEDE44506813A010B94F07F90,
+	AppleTree_Start_m297F9DD0C906E126E9DF126A687197151F54A9DA,
+	AppleTree_Update_m34DBD8CE1C4DF2F041A9AD3F936F397BD9A84420,
+	AppleTree_FixedUpdate_m8276CFB4D984542BA176F5FA4DF238A549B933D0,
+	AppleTree__ctor_mE497BFEE1F98E40AD86A0FEC62963BF9470F61D4,
+	Basket_Start_mE120B70ECBAD12FF9ECA3D0238F4B5B6BF1409B2,
+	Basket_Update_m37622FE774AACCDD7F9ABCC634AFF2E40220EBBE,
+	Basket_OnCollisionEnter_m67BAC0C67DF584C887DDCA65366DC4ABB8049591,
+	Basket__ctor_m65F74C0136073A712AD73EB3EE9D6B7888E307BB,
+	HighScore_Awake_mA5C1C191D20846C326EB5BD2B4A0534B364AA399,
+	HighScore_get_SCORE_m7262A5E06AD0A161F24299FF26BD41063CDCD5AA,
+	HighScore_set_SCORE_m435F12AA3E4C150CA7C81771D66BD18C7739C0E8,
+	HighScore_TRY_SET_HIGH_SCORE_m7162A2B211CECC040083B083F24A5190A26E0C05,
+	HighScore_OnDrawGizmos_mA6485BED20B83077DF1C3B69DE59002BB1FAEFC7,
+	HighScore__ctor_m94B0B5695A6D597D2E294CC40EC66325A16FB1EB,
+	HighScore__cctor_m64F1F84511F36C5AEDE29663FD46C79825051222,
+	ScoreCounter_Start_mC44AE9A1D07E54F2761B749315EFE9BF241C0B28,
+	ScoreCounter_Update_m5C95165BBB78FBC9163A047A49BBBE77D18F29A8,
+	ScoreCounter__ctor_mD31BB3A21C7FDA565DBAA13439B05739F2AE109F,
+};
+static const int32_t s_InvokerIndices[26] = 
+{
+	3172,
+	3172,
+	4852,
+	3172,
+	3172,
+	3172,
+	3172,
+	3172,
+	3172,
+	3172,
+	3172,
+	3172,
+	3172,
+	3172,
+	2600,
+	3172,
+	3172,
+	4821,
+	4751,
+	4751,
+	3172,
+	3172,
+	4852,
+	3172,
+	3172,
+	3172,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	26,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
